@@ -1,8 +1,2 @@
-data added in middle
-joy
-
-for pull
-ss
-from onluine
-
-right now
+pull ----> conflit ---> commit local
+	----------------> commit local
