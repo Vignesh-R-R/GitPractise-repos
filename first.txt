@@ -1,4 +1,0 @@
-
-pull ----> conflit ---> commit local
-	----------------> commit local
-
